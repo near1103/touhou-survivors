@@ -6,4 +6,4 @@ Made following the guide [Creating a Rogue-like (like Vampire Survivors) in Unit
 ## You can play it in web
 You can play this game in browser WebGl build on simmer.io: [Touhou Survivors](https://simmer.io/@near1103/touhou-survivors)
 
-<img src = "https://github.com/near1103/touhou-survivors/blob/main/img/glue.gif" width = "100" height = "100" />
+<img src = "https://github.com/near1103/touhou-survivors/blob/main/img/glue.gif" width = "232" height = "256" />
