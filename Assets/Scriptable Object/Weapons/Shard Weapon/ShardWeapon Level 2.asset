@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72796685a6b70a2478a0ee1d0cd751e7, type: 3}
+  m_Name: ShardWeapon Level 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6304832664433214466, guid: d15f470b021544145b4abaf7dc14bb00, type: 3}
+  damage: 5
+  speed: 10
+  cooldownDuration: 2
+  pierce: 2
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: Ice Shard Level 2
+  description: Ice Shard pierces 1 enemy
+  icon: {fileID: 2050684517, guid: 9704070f6e5d1994abfa87928dae95bb, type: 3}

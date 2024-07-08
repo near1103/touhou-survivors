@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: b6426d005a8a8af419fa0797af822f60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reaper_walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1867
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a4d0f3fe33ad41b37e1c8ba15d5fa
+      internalID: -16664834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_walk_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1867
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c944eb4116e0aff46a6b99052b1868d1
+      internalID: -475755535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_walk_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1865
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3180471148c04fb8430a056d387bf
+      internalID: -990235161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_walk_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1867
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab055a04bf83494dbd762d91928950f
+      internalID: -1659685602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_walk_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1867
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad492945a72e1546be8a7475dc3bf44
+      internalID: 1105069350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_walk_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1865
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee62a416267d44d86527580f3be980
+      internalID: -308343427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1224
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc592af36a9a454f9531789995a2ef4
+      internalID: -648390053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1225
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf113ddc58577489ab76feec0a142b
+      internalID: 735273280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1230
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5bccb8b764ace4982908bb2effe10b
+      internalID: -552045243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1193
+        width: 196
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f8254969077c4c9bc7c3c8952d8fe
+      internalID: 1140078131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1182
+        width: 188
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bf2ca929d26a64f8bfc408ceb40f2c
+      internalID: -1588136182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_5
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1192
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef57684db445449a0d91b2586934bf
+      internalID: 1398942470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_6
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1197
+        width: 159
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb925ae0e709134bad4ad2078794f97
+      internalID: 617326006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1194
+        width: 162
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d7bd8050a45749ad8bd70660dae56
+      internalID: 1956175981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1176
+        width: 166
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09352d6d847eba4384f826a81ce0602
+      internalID: 1640054237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1175
+        width: 135
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f407e7f6bbe7144bbfe84f50d04ab8e
+      internalID: 371295722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reaper_1: -1160225997
+      reaper_100: 1049763014
+      reaper_101: -153316264
+      reaper_102: -475027081
+      reaper_103: 158065987
+      reaper_104: -1739850656
+      reaper_105: -588251490
+      reaper_106: -1713491280
+      reaper_107: -1794945970
+      reaper_108: -594686720
+      reaper_109: -1884582029
+      reaper_110: 177561369
+      reaper_111: -245568525
+      reaper_112: 1746579867
+      reaper_113: 878513761
+      reaper_114: -202501983
+      reaper_115: -1561649834
+      reaper_116: 1308683789
+      reaper_117: -1038592921
+      reaper_118: 2017343955
+      reaper_119: 577268045
+      reaper_12: -1554661787
+      reaper_120: 1690361039
+      reaper_121: -1847133658
+      reaper_122: -1926591505
+      reaper_123: 1056970787
+      reaper_124: 1676428968
+      reaper_125: 1821194658
+      reaper_126: 1043582278
+      reaper_127: 1301274557
+      reaper_128: -991837834
+      reaper_129: 1621440622
+      reaper_130: -95079590
+      reaper_131: 245689073
+      reaper_132: -731884680
+      reaper_133: 1008397507
+      reaper_134: 192824349
+      reaper_135: 725637
+      reaper_136: -370096277
+      reaper_137: 1349991720
+      reaper_138: -1201872733
+      reaper_139: 1322046394
+      reaper_140: 1517928385
+      reaper_141: 979994328
+      reaper_142: 598655993
+      reaper_143: -1640260075
+      reaper_144: 2060294936
+      reaper_145: -904717969
+      reaper_146: 934880284
+      reaper_147: 569602510
+      reaper_148: -1292777617
+      reaper_149: 1880120151
+      reaper_150: 773611841
+      reaper_151: -1076284316
+      reaper_152: 549667023
+      reaper_153: 526278782
+      reaper_154: 969700135
+      reaper_155: 81075946
+      reaper_156: 1249953893
+      reaper_157: 967189694
+      reaper_158: 1100852597
+      reaper_159: 1818010623
+      reaper_160: -209191824
+      reaper_161: -1912744135
+      reaper_162: -937196236
+      reaper_163: -369419422
+      reaper_164: 31216430
+      reaper_165: 390423161
+      reaper_166: 1266071723
+      reaper_167: 710331973
+      reaper_168: 130171677
+      reaper_169: -753309286
+      reaper_17: 1797308864
+      reaper_170: -2074137650
+      reaper_171: -592897697
+      reaper_172: -177140506
+      reaper_173: 776494738
+      reaper_174: -1727507967
+      reaper_175: -217651834
+      reaper_176: 871144781
+      reaper_177: 1078058163
+      reaper_178: 1008923968
+      reaper_179: -1875921556
+      reaper_18: 33712348
+      reaper_180: -1333927584
+      reaper_181: -1773777057
+      reaper_182: -695007734
+      reaper_183: -155883131
+      reaper_184: 1351479228
+      reaper_185: 1247724250
+      reaper_186: 928312885
+      reaper_187: -20969686
+      reaper_188: 2028947007
+      reaper_189: 319613101
+      reaper_19: 76520040
+      reaper_190: -797339066
+      reaper_191: 1650556830
+      reaper_192: 1154249352
+      reaper_193: 1707162207
+      reaper_194: 178031002
+      reaper_195: 1014289991
+      reaper_196: 2053954421
+      reaper_197: -534302321
+      reaper_198: 1253733673
+      reaper_199: -60969075
+      reaper_2: 85129639
+      reaper_20: 912118023
+      reaper_200: -1152671691
+      reaper_201: 614719331
+      reaper_202: -1687404624
+      reaper_203: 1869080015
+      reaper_204: 888495984
+      reaper_205: 1485580503
+      reaper_206: -434053589
+      reaper_207: -1827235030
+      reaper_208: -866907357
+      reaper_209: -2051825756
+      reaper_21: -146374847
+      reaper_210: -1464709661
+      reaper_211: -920377229
+      reaper_212: 1744065410
+      reaper_213: -438539076
+      reaper_214: 473249462
+      reaper_215: -1957837112
+      reaper_216: -1139446093
+      reaper_217: 93775278
+      reaper_218: 1405171563
+      reaper_219: -301868382
+      reaper_22: 414717898
+      reaper_220: -839056591
+      reaper_221: 599832332
+      reaper_222: -409837218
+      reaper_223: 1493815732
+      reaper_224: -176977662
+      reaper_225: 1031380509
+      reaper_226: -55377672
+      reaper_227: 416946810
+      reaper_228: 549853775
+      reaper_229: 1533025524
+      reaper_23: 1701298285
+      reaper_230: 1248118363
+      reaper_231: -297918724
+      reaper_232: 1401181924
+      reaper_233: -405456020
+      reaper_234: 1007026310
+      reaper_235: -1690301407
+      reaper_236: 1673238690
+      reaper_237: 917110116
+      reaper_238: -1198080067
+      reaper_239: -1243601825
+      reaper_24: -364099356
+      reaper_240: 2137607746
+      reaper_241: -1281064226
+      reaper_242: 1422135167
+      reaper_243: 1815925085
+      reaper_244: -1818401245
+      reaper_245: 740354509
+      reaper_246: -552058000
+      reaper_247: 2010194330
+      reaper_248: -1705804159
+      reaper_249: -747498026
+      reaper_25: -1047248740
+      reaper_250: 1656089011
+      reaper_251: 352606253
+      reaper_252: -1955675085
+      reaper_253: 298806962
+      reaper_254: -680190535
+      reaper_255: -1125902670
+      reaper_256: -1249042781
+      reaper_257: 2052846115
+      reaper_258: 613533459
+      reaper_259: 237937398
+      reaper_26: 533195067
+      reaper_260: 1293673672
+      reaper_261: -222728863
+      reaper_262: 694949054
+      reaper_263: 190251890
+      reaper_264: 1880479020
+      reaper_265: -98400455
+      reaper_266: -1351329959
+      reaper_267: -1316390708
+      reaper_268: 886455476
+      reaper_269: 986370451
+      reaper_27: 224821829
+      reaper_270: 601478903
+      reaper_271: 1469672070
+      reaper_272: 444050128
+      reaper_273: -1742430060
+      reaper_274: 1975199093
+      reaper_275: -1912403391
+      reaper_276: -965813437
+      reaper_277: 348935430
+      reaper_278: 523936118
+      reaper_279: 1043599767
+      reaper_28: -2066322404
+      reaper_280: 2077849688
+      reaper_281: -304491342
+      reaper_282: -1465016485
+      reaper_283: 1930188304
+      reaper_284: -1722259475
+      reaper_285: -1695262472
+      reaper_286: 475925639
+      reaper_287: 292710237
+      reaper_288: 1248114895
+      reaper_289: -888095919
+      reaper_29: 1440233972
+      reaper_290: 1101728314
+      reaper_291: -883405578
+      reaper_292: -1755432432
+      reaper_293: 918589833
+      reaper_3: -875949827
+      reaper_30: -604141299
+      reaper_31: -428155001
+      reaper_32: -1524432798
+      reaper_33: -566162461
+      reaper_34: 1709556686
+      reaper_35: 56297951
+      reaper_36: -568759365
+      reaper_37: -949526850
+      reaper_38: -1976720689
+      reaper_39: 416316013
+      reaper_4: -1737421687
+      reaper_40: -1127439350
+      reaper_41: 1334491209
+      reaper_42: 174784549
+      reaper_43: 188524028
+      reaper_44: 660993195
+      reaper_45: -1699515832
+      reaper_46: -942211933
+      reaper_47: 1576545904
+      reaper_48: -2111466897
+      reaper_49: 595750608
+      reaper_5: -1394393225
+      reaper_50: -522354476
+      reaper_51: 1208379174
+      reaper_52: -266283573
+      reaper_53: 1267713409
+      reaper_54: 573590791
+      reaper_55: 437840809
+      reaper_56: 1469185135
+      reaper_57: -1387384631
+      reaper_58: -1061607651
+      reaper_59: -131202641
+      reaper_6: 1778603283
+      reaper_60: -1582571141
+      reaper_61: 1776834424
+      reaper_62: 953304853
+      reaper_63: 1472043814
+      reaper_64: 155145611
+      reaper_65: 1298435028
+      reaper_66: 1715101921
+      reaper_67: 386664989
+      reaper_68: 37585853
+      reaper_69: 1459800219
+      reaper_70: 121210718
+      reaper_71: -543278799
+      reaper_8: -1748231819
+      reaper_80: 1407228029
+      reaper_81: 1233212488
+      reaper_82: 608615745
+      reaper_84: -384215526
+      reaper_85: 2097080753
+      reaper_86: -64662074
+      reaper_87: 1619456474
+      reaper_88: -1792672654
+      reaper_89: -896977042
+      reaper_9: -649273517
+      reaper_90: 206100427
+      reaper_91: -939925661
+      reaper_92: 453207483
+      reaper_93: -679071691
+      reaper_94: -149560835
+      reaper_95: -336877359
+      reaper_96: 529646005
+      reaper_97: -114666699
+      reaper_98: 2014000357
+      reaper_99: -933855884
+      reaper_attack_0: -648390053
+      reaper_attack_1: 735273280
+      reaper_attack_2: -552045243
+      reaper_attack_3: 1140078131
+      reaper_attack_4: -1588136182
+      reaper_attack_5: 1398942470
+      reaper_attack_6: 617326006
+      reaper_attack_7: 1956175981
+      reaper_attack_8: 1640054237
+      reaper_attack_9: -287329302
+      reaper_walk_0: -16664834
+      reaper_walk_1: -475755535
+      reaper_walk_2: -990235161
+      reaper_walk_3: -1659685602
+      reaper_walk_4: 1105069350
+      reaper_walk_5: -308343427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
